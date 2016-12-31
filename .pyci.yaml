@@ -1,4 +1,4 @@
-IMAGE: node:latest
+IMAGE: node:6
 
 SCRIPT:
   - npm install
