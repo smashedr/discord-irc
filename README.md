@@ -1,4 +1,4 @@
-# discord-irc [![Build Status](https://travis-ci.org/reactiflux/discord-irc.svg?branch=master)](https://travis-ci.org/reactiflux/discord-irc) [![Coverage Status](https://coveralls.io/repos/github/reactiflux/discord-irc/badge.svg?branch=master)](https://coveralls.io/github/reactiflux/discord-irc?branch=master)
+Jenkins Badge: [![Build Status](https://jenkins.cssnr.com/buildStatus/icon?job=CI-smashedr-discord-irc)](https://jenkins.cssnr.com/job/CI-smashedr-discord-irc/)
 
 > Connects [Discord](https://discordapp.com/) and IRC channels by sending messages back and forth.
 
