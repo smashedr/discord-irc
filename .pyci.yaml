@@ -1,0 +1,6 @@
+IMAGE: node:6
+
+SCRIPT:
+  - npm install
+  - npm run lint
+  - npm run coverage
