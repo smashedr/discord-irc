@@ -1,4 +1,4 @@
-Jenkins Badge: [![Build Status](https://jenkins.cssnr.com/buildStatus/icon?job=CI-smashedr-discord-irc)](https://jenkins.cssnr.com/job/CI-smashedr-discord-irc/)
+Jenkins Badge: [![Build Status](https://jenkins.cssnr.com/buildStatus/icon?job=smashedr-discord-irc)](https://jenkins.cssnr.com/job/smashedr-discord-irc/)
 
 > Connects [Discord](https://discordapp.com/) and IRC channels by sending messages back and forth.
 
